@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MantizPrueba</string>
+    <string name="user">admin</string>
+    <string name="password">1234</string>
+    <string name="numeroExcedidoIntentos">Has excedido el número de intentos</string>
+    <string name="credencialesInvalidas">Has excedido el número de intentos</string>
+    <string name="NFCInactivado">Debes activar el NFC para poder continuar</string>
+    <string name="NFCNoCompatible">Has excedido el número de intentos</string>
+    <string name="DatosPersonales">Datos personales</string>
+    <string name="DatosVehiculo">Mi vehiculo y docs</string>
+    <string name="Promociones">Promociones</string>
+    <string name="Tools">Configuración</string>
+
+
+    <string name="title_activity_mainboard">Mantiz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
